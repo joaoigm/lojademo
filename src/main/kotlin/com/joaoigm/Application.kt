@@ -1,4 +1,4 @@
-package com.joaoigm
+package com.joaoigm.lojademo
 
 import io.micronaut.runtime.Micronaut.*
 fun main(args: Array<String>) {
